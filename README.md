@@ -3,7 +3,7 @@
 Hi, I am **HandsomeHan**. 
 
  - 🍰 I’m currently working on web development
- - 🌈 I’m currently learning Vue.js, React, Node
+ - 🌈 I’m currently learning Vue, React, Node
 
 Things I code with
 
